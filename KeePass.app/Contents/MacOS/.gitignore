@@ -1,0 +1,5 @@
+# ignore KeePass binaries
+/*
+
+!/.gitignore
+!/launch.applescript
